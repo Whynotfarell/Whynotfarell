@@ -1,4 +1,4 @@
-- 👋 Hi, I’m farell
+- 👋 Hi, I’m King
 - 👀 I’m interested in Python programming
 - 🌱 I’m currently learning Python basics
 - 💞️ I’m looking to collaborate on Python programming 
