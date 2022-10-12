@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Whynotfarell
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m farell
+- 👀 I’m interested in Python programming
+- 🌱 I’m currently learning Python basics
+- 💞️ I’m looking to collaborate on Python programming 
+- 📫 How to reach me Send email for me
 
 <!---
 Whynotfarell/Whynotfarell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
